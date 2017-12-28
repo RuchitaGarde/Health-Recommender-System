@@ -10,7 +10,7 @@ This repository contains:
 1. The disease-symptom-ontology (owl file) which forms the knowledge base
 - We created a mapping between diseases and symptoms, which can be queried using SPARQL to get a list of diseases or symptoms based on your input.
 2. ICD-10 Disease Codes
-- This ontology contains ICD-10 disease codes. It was important that disease codes are displayed instead of names for accuracy, ease of use and maintainability.
+- This ontology contains ICD-10 disease codes. It was important that disease codes are displayed instead of disease names for purposes of accuracy, ease of use and maintainability.
 3. GUI
 - This folder containes html, css and js files for creating the user interface of the recommender system. Open the index.html file to see the UI. This is work under progress.
 4. Research Report
